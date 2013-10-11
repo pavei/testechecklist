@@ -19,6 +19,6 @@
 	
 	<gap:platform name="android" />
 	
-	<plugin name="BarcodeScanner" value="com.phonegap.plugins.barcodescanner.BarcodeScanner"/>
+	<gap:plugin name="com.phonegap.plugins.barcodescanner" version="1.0.2" />
 
 </widget>
